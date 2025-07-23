@@ -6,6 +6,9 @@ This repository contains a refactored, modular version of my university project.
 
 The repo also includes a simple Lua dissector for Wireshark to parse and visualize the custom UDP protocol.
 
+> **Note:**  
+> The architecture is not optimal and the codebase is quite cumbersome, but despite this the project is quite challenging to implement and required careful consideration. The deadlines were tight, and there was no question of much productivity at that moment.
+
 ---
 
 This repository is part of my university coursework for the Computer and Communication Networks course (September 2024 – January 2025).
